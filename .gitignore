@@ -1,2 +1,8 @@
+#UFT ignore section
+*.lck
+/Res*
+
 
 **/Action*/
+
+#end UFT ignore section
